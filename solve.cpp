@@ -10,7 +10,7 @@ int main() {
     for (int j = x + 1; j <= y; ++j) b[j] = 1;
   }
   int w = 0;
-  for (int i = 0; i <= m; i++)
+  for (int i = 0; i <= m; ++i)
     if (b[i] == 0) w = 1;
   if (w)
     cout << "NO" << endl;
