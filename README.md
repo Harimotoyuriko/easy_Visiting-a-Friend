@@ -92,7 +92,7 @@ YES
 NO
 
 ## 答案 / Solutions
-[Writeup](https://github.com/SIST-Manual/easy_Visiting-a-Friend/blob/master/writeup.cpp)
+[Writeup](https://github.com/SIST-Manual/easy_Visiting-a-Friend/blob/master/writeup.md)
 
 [Python](https://github.com/SIST-Manual/easy_Visiting-a-Friend/blob/master/solve.py)
 
