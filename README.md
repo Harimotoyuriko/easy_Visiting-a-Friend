@@ -43,13 +43,13 @@ The next n lines contain information about teleports.
 
 接下来n行是关于意念传送点的信息
 
-The i-th of these lines contains two integers ai and bi (0 ≤ ai ≤ bi ≤ m), where ai is the location of the i-th teleport, and bi is its limit.
+The i-th of these lines contains two integers a(i) and b(i) (0 ≤ a(i) ≤ b(i) ≤ m), where a(i) is the location of the i-th teleport, and b(i) is its limit.
 
-这些行中的第i行包括两个数ai和bi (0 ≤ ai ≤ bi ≤ m)， ai是第i个传送点的位置，bi是它的限制。
+这些行中的第i行包括两个数a(i)和b(i) (0 ≤ ai ≤ bi ≤ m)， a(i)是第i个传送点的位置，b(i)是它的限制。
 
 
-It is guaranteed that ai ≥ ai - 1 for every i (2 ≤ i ≤ n).
-数据保证对每一个i， ai ≥ ai - 1 (2 ≤ i ≤ n)
+It is guaranteed that a(i) ≥ a(i - 1) for every i (2 ≤ i ≤ n).
+数据保证对每一个i， a(i) ≥ a(i - 1) (2 ≤ i ≤ n)
 
 ## 输出 / Output
 
