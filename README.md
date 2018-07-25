@@ -45,7 +45,7 @@ The next n lines contain information about teleports.
 
 The i-th of these lines contains two integers a(i) and b(i) (0 ≤ a(i) ≤ b(i) ≤ m), where a(i) is the location of the i-th teleport, and b(i) is its limit.
 
-这些行中的第i行包括两个数a(i)和b(i) (0 ≤ ai ≤ bi ≤ m)， a(i)是第i个传送点的位置，b(i)是它的限制。
+这些行中的第i行包括两个数a(i)和b(i) (0 ≤ a(i) ≤ b(i) ≤ m)， a(i)是第i个传送点的位置，b(i)是它的限制。
 
 
 It is guaranteed that a(i) ≥ a(i - 1) for every i (2 ≤ i ≤ n).
